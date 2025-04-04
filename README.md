@@ -16,6 +16,14 @@ I'm diving into Rust to build performant and secure blockchain applications, pri
 To run the projects, navigate to the desired folder and execute:
 ```bash
 cargo run
+```
+or
+```bash 
+rustc src/main
+```
+then
+```bash
+ ./main
 =======
 # Rust Journey
 >>>>>>> 4cc371f (learnt about primitive data types in rust)
