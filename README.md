@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rust Journey 🚀
 
 Welcome to my Rust journey! This repository documents my progress as I learn and build projects with Rust and Solana. 
@@ -15,3 +16,6 @@ I'm diving into Rust to build performant and secure blockchain applications, pri
 To run the projects, navigate to the desired folder and execute:
 ```bash
 cargo run
+=======
+# Rust Journey
+>>>>>>> 4cc371f (learnt about primitive data types in rust)
