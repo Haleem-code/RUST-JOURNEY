@@ -10,7 +10,7 @@ Welcome to my Rust journey! This repository documents my progress as I learn and
   - More folders to come as I progress!
 
 ## Why Rust? 🤔
-I'm diving into Rust to build performant and secure blockchain applications, primarily on Solana. My goal is to master Rust fundamentals while applying them to real-world projects.
+I'm diving into Rust to build backend Applications, performant and secure blockchain applications, primarily on Solana. My goal is to master Rust fundamentals while applying them to real-world projects.
 
 ## Setup 🛠️
 To run the projects, navigate to the desired folder and execute:
