@@ -7,6 +7,7 @@ Welcome to my Rust journey! This repository documents my progress as I learn and
 - `rust-journey/` - Contains all Rust projects and experiments.
   - `hello-world/` - My first Rust project: a simple "Hello, World!" program.
   - `primitive_data_types` - Learnt about the primitive data types in rust:Integers(i and u) , float(f32 and f64), boolean(ture or false) then character(char for unicode scalr value that is for letters)
+  - `basic-programming-concept`-learnt functions and alsotuples gave me hard time but i get it now
   - More folders to come as I progress!
 
 ## Why Rust? 🤔
