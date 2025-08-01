@@ -1,0 +1,1 @@
+/root/Rust-journey/RUST-JOURNEY/basic-programming-concepts/basic-programming-concept/target/debug/basic-programming-concept: /root/Rust-journey/RUST-JOURNEY/basic-programming-concepts/basic-programming-concept/src/main.rs
