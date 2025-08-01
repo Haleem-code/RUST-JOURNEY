@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Rust Journey 🚀
 
 Welcome to my Rust journey! This repository documents my progress as I learn and build projects with Rust and Solana. 
